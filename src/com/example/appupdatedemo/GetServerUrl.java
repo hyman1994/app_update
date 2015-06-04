@@ -5,7 +5,7 @@ package com.example.appupdatedemo;
  */
 
 public class GetServerUrl{
-	static String url="http://192.168.1.100:8080/PersonalHomePage";
+	static String url="http://192.168.23.3:8080/PersonalHomePage";
 			
 	public static String getUrl() {
 		return url;
